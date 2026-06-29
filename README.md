@@ -82,7 +82,7 @@
 Клонируйте репозиторий:
 
 ```bash
-git clone [https://github.com/USERNAME/TikTok-Auto-Registration.git](https://github.com/y1ki/LZTmarket-TikTok-autoreg)
+git clone https://github.com/y1ki/LZTmarket-TikTok-autoreg
 cd TikTok-Auto-Registration
 ```
 
