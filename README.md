@@ -83,7 +83,7 @@
 
 ```bash
 git clone https://github.com/y1ki/LZTmarket-TikTok-autoreg
-cd TikTok-Auto-Registration
+cd LZTmarket-TikTok-autoreg
 ```
 
 Установите зависимости:
